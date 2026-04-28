@@ -3,10 +3,10 @@
 </h1>
 
 
-🎓 Olá, me chamo Henry Claro, e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal
+ me chamo Henry Claro, e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal
 
 
-## Atualmente estudando
+##  🎓 Atualmente estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS  
