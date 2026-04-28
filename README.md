@@ -30,4 +30,6 @@
 - Linkedin: https://www.linkedin.com/in/henry-claro-b45695266/
 - Email: henryclaro111@gmail.com
 
+![snake gif](https://github.com/HenryClaro/HenryClaro/blob/output/github-contribution-grid-snake.svg)
+
 <!-- profile readme -->
