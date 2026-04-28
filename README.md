@@ -18,13 +18,13 @@
 
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henryclaro111-bot&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryclaro111-bot&layout=compact&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenryClaro&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryClaro&layout=compact&theme=default"/>
 </div>
 
 ---
 
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HenryClaro/HenryClaro/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
