@@ -22,9 +22,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryClaro&layout=compact&theme=default"/>
 </div>
 
----
-
-![snake gif](https://github.com/HenryClaro/HenryClaro/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
