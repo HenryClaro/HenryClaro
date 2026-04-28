@@ -3,7 +3,7 @@
 </h1>
 
 
- me chamo Henry Claro, e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal
+ me chamo Henry Claro, e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal. Tenho foco em desenvolver uma base sólida em programação e lógica, buscando aplicar na prática os conhecimentos adquiridos ao longo do curso.
 
 
 ##  🎓 Atualmente estudando
